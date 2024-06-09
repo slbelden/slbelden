@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🏫 I'm studying Computer Science at CCD.edu
+- 🏫 Non-Traditional Student of Computer Science
 - ⏲️ Formerly, University of Wyoming
-- 🌱 I’m learning graphics programming in C++
-- 👯 Pursuing software development internship opportunites for Summer 2024.
+- 🌱 I’m learning graphics programming & 3d data manipulation
 - ⚡ [Gists](https://gist.github.com/slbelden)
